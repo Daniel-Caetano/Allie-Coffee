@@ -4,7 +4,7 @@
 
 Autores: Ana Vitória
          Daniel Caetano de Souza Ferreira
-         Lucas Henrique
+         Lucas Henrique Faria de Deus
          Paulo
          Túlio Rabelo
          Waldir Júnior Assis
@@ -31,8 +31,8 @@ Nome: Daniel Caetano de Souza Ferreira
 email:danielcaetano.sf@gmail.com
 Funções:Analista de desenvolvimento-Back-End
 
-Nome: Lucas Henrique
-email:
+Nome: Lucas Henrique Faria de Deus
+email: lucas.hfdeus@gmail.com
 Funções:Analista de desenvolvimento-Front-End
 
 Nome: Paulo
