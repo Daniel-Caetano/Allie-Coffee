@@ -22,7 +22,7 @@ Autores: Ana Vitória
 //ir no diretorio e atualizar suas informações no README
 //git add .
 //git status ( se tiver tudo ok faz o commit )
-//git commit -m "Atualizando informações no readme"
+//git commit -m "'Seu nome': Atualizando informações no readme"
 //enviar para o github
 //git pull origin develop
 //git push -u origin develop
