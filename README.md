@@ -11,15 +11,9 @@ Autores: Ana Vitória
          Weslley
 
 //git init (na pasta onde deseja ficar o projeto)
-//git git branch -M develop
 //git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
 //cd .\Aliare-Coffe\
-//git add .
-//git commit -m "'Seu nome', clonando repositorio"
-//git remote add origin https://github.com/Daniel-Caetano/Aliare-Coffe.git
-//git status 
-// precisa estar tudo ok no comando acima
-//ir no diretorio e atualizar suas informações no README
+//ir no diretorio e atualizar suas informações no README, salvar e fechar
 //git add .
 //git status ( se tiver tudo ok faz o commit )
 //git commit -m "'Seu nome': Atualizando informações no readme"
