@@ -39,9 +39,9 @@ Nome: Paulo
 email: 
 Funções: Analista de desenvolvimento-Back-End
 
-Nome: Túlio Rabelo
-email: 
-Funções:QA
+Nome: Tulio Rabelo
+email: tuliorazevedo.dev@gmail.com
+Funções: QA Engenieer 
 
 Nome: Waldir Júnior Assis
 email:
