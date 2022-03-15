@@ -11,7 +11,7 @@ Autores: Ana Vitória
          Weslley
          
  -------
-
+PRIMEIRA CONFIGURAÇÃO
 //git init (na pasta onde deseja ficar o projeto)
 
 //git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
@@ -32,6 +32,12 @@ Autores: Ana Vitória
 
 //git push -u origin develop
 
+COMANDOS PARA ATUALIZAR COM GITHUB
+git status
+git add .
+git commit -m "COMENTARIO"
+git pull origin develop  ( sempre será para o develop )
+git push -u origin "nome_da_sua_branch" (os pushes sempre serão para sua branch)
 
 Credenciais
 
