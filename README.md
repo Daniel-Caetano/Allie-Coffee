@@ -4,14 +4,13 @@
 
 Autores: Ana Vitória
          Daniel Caetano de Souza Ferreira
-         Lucas Henrique
+         Lucas Henrique Faria de Deus
          Paulo
          Túlio Rabelo
          Waldir Júnior Assis
          Weslley
 
 //git init (na pasta onde deseja ficar o projeto)
-//git git branch -M develop
 //git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
 //cd .\Aliare-Coffe\
 //git add .
@@ -37,8 +36,8 @@ Nome: Daniel Caetano de Souza Ferreira
 email:danielcaetano.sf@gmail.com
 Funções:Analista de desenvolvimento-Back-End
 
-Nome: Lucas Henrique
-email:
+Nome: Lucas Henrique Faria de Deus
+email: lucas.hfdeus@gmail.com
 Funções:Analista de desenvolvimento-Front-End
 
 Nome: Paulo
