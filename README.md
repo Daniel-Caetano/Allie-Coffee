@@ -9,26 +9,29 @@ Autores: Ana Vitória
          Túlio Rabelo
          Waldir Júnior Assis
          Weslley
+         
+ -------
 
-git init (na pasta onde deseja ficar o projeto)
+//git init (na pasta onde deseja ficar o projeto)
 
-git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
+//git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
 
-cd .\Aliare-Coffe\
+//cd .\Aliare-Coffe\
 
-ir no diretorio e atualizar suas informações no README, salvar e fechar
+//ir no diretorio e atualizar suas informações no README, salvar e fechar
 
-git add .
+//git add .
 
-git status ( se tiver tudo ok faz o commit )
+//git status ( se tiver tudo ok faz o commit )
 
-git commit -m "'Seu nome': Atualizando informações no readme"
+//git commit -m "'Seu nome': Atualizando informações no readme"
 
-enviar para o github
+//enviar para o github
 
-git pull origin develop
+//git pull origin develop
 
-git push -u origin develop
+//git push -u origin develop
+
 
 Credenciais
 
