@@ -12,7 +12,6 @@ Autores: Ana Vitória
 
 //git init (na pasta onde deseja ficar o projeto)
 //git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
-//git clone (nome dos arquivos)
 //git commit -m "Comentário"
 //--quando for enviar para o Master/Main
 //git pull origin main
