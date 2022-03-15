@@ -44,11 +44,17 @@ PRIMEIRA CONFIGURAÇÃO
 
 _____________________
 ESTRUTURA DE COMANDOS PARA ATUALIZAR COM GITHUB
+
 git status
+
 git add .
+
 git commit -m "COMENTARIO"
+
 git pull origin develop  ( sempre será para o develop )
+
 git push -u origin "nome_da_sua_branch" (os pushes sempre serão para sua branch)
+
 
 _____________________
 Credenciais
