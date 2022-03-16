@@ -37,7 +37,7 @@ Autores:
          
          Waldir Júnior Assis, 
          
-         Weslley
+         Weslley Cardoso Mariano
          
 _____________________
 PRIMEIRA CONFIGURAÇÃO
@@ -132,8 +132,8 @@ Credenciais
       Funções:Analista de desenvolvimento-Front-End
 
 
-      Nome: Weslley
+      Nome: Weslley Cardoso Mariano
       
-      Email:
+      Email: weslleycardosomariano@gmail.com
       
-      Funções:Analista de Projetos
+      Funções:Analista de Negócios
