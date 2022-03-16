@@ -42,10 +42,14 @@ PRIMEIRA CONFIGURAÇÃO
 
 //git push -u origin develop
 
+
 _____________________
 # ESTRUTURA DE COMANDOS PARA ATUALIZAR COM GITHUB
-
 # Cuidado para não realizar modificações diretamente na branch develop
+# Para evitar problemas efetuar esses passos na pasta RAIZ (Aliare-Coffe)
+
+_____________________
+*Enviar para o GitHub*
 
 git status
 
@@ -56,9 +60,13 @@ git commit -m "COMENTARIO"
 git pull origin develop  ( *sempre será para o develop* )
 
 git push -u origin "nome_da_sua_branch" (os pushes sempre serão para sua branch)
+____________________
+*Criando e deletando branch*
 
-
-_____________________
+git branch nome_da_branch    (cria a branch)
+git checkout nome_da_branch  (muda para a branch)
+git branch -D nome_da_branch  (deleta a branch)
+____________________
 Credenciais
 
 Nome: Ana Vitória Silva Da Luz Nascimento
