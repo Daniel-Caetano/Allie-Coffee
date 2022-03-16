@@ -12,7 +12,7 @@ CSS,
 SQL SERVER 2017
 _____________________
 
-Autores: Ana Vitória, 
+Autores: Ana Vitória S. Da Luz Nascimento,
          Daniel Caetano de Souza Ferreira, 
          Lucas Henrique Faria de Deus, 
          Paulo Ricardo Amorim Silva, 
@@ -59,8 +59,8 @@ git push -u origin "nome_da_sua_branch" (os pushes sempre serão para sua branch
 _____________________
 Credenciais
 
-Nome: Ana Vitória
-email: 
+Nome: Ana Vitória Silva Da Luz Nascimento
+email: anavitoriasln@gmail.com
 Funções: Scrum Master
 
 Nome: Daniel Caetano de Souza Ferreira
