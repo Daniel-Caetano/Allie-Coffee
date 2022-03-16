@@ -25,7 +25,7 @@ _____________________
 
 Autores: 
 
-Ana Vitória S. Da Luz Nascimento,
+         Ana Vitória S. Da Luz Nascimento,
 
          Daniel Caetano de Souza Ferreira, 
          
