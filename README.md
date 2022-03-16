@@ -41,6 +41,7 @@ Autores:
          
 _____________________
 PRIMEIRA CONFIGURAÇÃO
+
 //git init (na pasta onde deseja ficar o projeto)
 
 //git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
