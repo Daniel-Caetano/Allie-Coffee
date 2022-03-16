@@ -90,30 +90,50 @@ git branch -D nome_da_branch  (deleta a branch)
 ____________________
 Credenciais
 
-Nome: Ana Vitória Silva Da Luz Nascimento
-email: anavitoriasln@gmail.com
-Funções: Scrum Master
+      Nome: Ana Vitória Silva Da Luz Nascimento
 
-Nome: Daniel Caetano de Souza Ferreira
-email:danielcaetano.sf@gmail.com
-Funções:Analista de desenvolvimento-Back-End
+      Email: anavitoriasln@gmail.com
 
-Nome: Lucas Henrique Faria de Deus
-email: lucas.hfdeus@gmail.com
-Funções:Analista de desenvolvimento-Front-End
+      Funções: Scrum Master
 
-Nome: Paulo Ricardo Amorim Silva
-email: pauloramorims@gmail.com
-Funções: Analista de desenvolvimento-Back-End
 
-Nome: Tulio Rabelo
-email: tuliorazevedo.dev@gmail.com
-Funções: QA Engenieer 
+      Nome: Daniel Caetano de Souza Ferreira
+      
+      Email:danielcaetano.sf@gmail.com
+      
+      Funções:Analista de desenvolvimento-Back-End
 
-Nome: Waldir Júnior Assis
-email:
-Funções:Analista de desenvolvimento-Front-End
 
-Nome: Weslley
-email:
-Funções:Analista de Projetos
+      Nome: Lucas Henrique Faria de Deus
+      
+      Email: lucas.hfdeus@gmail.com
+      
+      Funções:Analista de desenvolvimento-Front-End
+
+
+      Nome: Paulo Ricardo Amorim Silva
+      
+      Email: pauloramorims@gmail.com
+      
+      Funções: Analista de desenvolvimento-Back-End
+
+
+      Nome: Tulio Rabelo
+      
+      Email: tuliorazevedo.dev@gmail.com
+      
+      Funções: QA Engenieer 
+
+
+      Nome: Waldir Júnior Assis
+      
+      Email:
+      
+      Funções:Analista de desenvolvimento-Front-End
+
+
+      Nome: Weslley
+      
+      Email:
+      
+      Funções:Analista de Projetos
