@@ -1,6 +1,6 @@
 # Projeto Aliare-Coffe
-#DATA Inicio: 15/03/2022
-#OBJ: Sistema para agenda de lanches fornecidos pela Aliare
+# DATA Inicio: 15/03/2022
+# OBJ: Sistema para agenda de lanches fornecidos pela Aliare
 _____________________
 #Tecnologias
 C#, 
@@ -43,7 +43,7 @@ PRIMEIRA CONFIGURAÇÃO
 //git push -u origin develop
 
 _____________________
-ESTRUTURA DE COMANDOS PARA ATUALIZAR COM GITHUB
+# ESTRUTURA DE COMANDOS PARA ATUALIZAR COM GITHUB
 
 # Cuidado para não realizar modificações diretamente na branch develop
 
