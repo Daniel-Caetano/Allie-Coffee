@@ -35,7 +35,7 @@ Autores:
          
          Túlio Rabelo, 
          
-         Waldir Júnior Assis, 
+         Waldir Assis Júnior, 
          
          Weslley Cardoso Mariano
          
@@ -125,9 +125,9 @@ Credenciais
       Funções: QA Engenieer 
 
 
-      Nome: Waldir Júnior Assis
+      Nome: Waldir S. Assis Júnior
       
-      Email:
+      Email: waldir.jr017@gmail.com
       
       Funções:Analista de desenvolvimento-Front-End
 
