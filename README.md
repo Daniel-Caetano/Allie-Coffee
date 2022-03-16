@@ -23,12 +23,20 @@ Docker
 GitFlow
 _____________________
 
-Autores: Ana Vitória S. Da Luz Nascimento,
+Autores: 
+
+Ana Vitória S. Da Luz Nascimento,
+
          Daniel Caetano de Souza Ferreira, 
+         
          Lucas Henrique Faria de Deus, 
+         
          Paulo Ricardo Amorim Silva, 
+         
          Túlio Rabelo, 
+         
          Waldir Júnior Assis, 
+         
          Weslley
          
 _____________________
