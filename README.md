@@ -21,6 +21,8 @@ SQL SERVER
 Docker
 
 GitFlow
+
+Programação orientada à BDD
 _____________________
 
 Autores: Ana Vitória S. Da Luz Nascimento,
@@ -32,7 +34,8 @@ Autores: Ana Vitória S. Da Luz Nascimento,
          Weslley
          
 _____________________
-PRIMEIRA CONFIGURAÇÃO
+# PRIMEIRA CONFIGURAÇÃO
+
 //git init (na pasta onde deseja ficar o projeto)
 
 //git clone https://github.com/Daniel-Caetano/Aliare-Coffe.git
