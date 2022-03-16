@@ -8,16 +8,16 @@ C#,
 DESENVOLVIMENTO DE API padrão JSON, 
 VUE.JS,
 JS, 
-CSS 
+CSS, 
 SQL SERVER 2017
 _____________________
 
-Autores: Ana Vitória
-         Daniel Caetano de Souza Ferreira
-         Lucas Henrique Faria de Deus
-         Paulo
-         Túlio Rabelo
-         Waldir Júnior Assis
+Autores: Ana Vitória, 
+         Daniel Caetano de Souza Ferreira, 
+         Lucas Henrique Faria de Deus, 
+         Paulo Ricardo Amorim Silva, 
+         Túlio Rabelo, 
+         Waldir Júnior Assis, 
          Weslley
          
 _____________________
@@ -71,8 +71,8 @@ Nome: Lucas Henrique Faria de Deus
 email: lucas.hfdeus@gmail.com
 Funções:Analista de desenvolvimento-Front-End
 
-Nome: Paulo
-email: 
+Nome: Paulo Ricardo Amorim Silva
+email: pauloramorims@gmail.com
 Funções: Analista de desenvolvimento-Back-End
 
 Nome: Tulio Rabelo
