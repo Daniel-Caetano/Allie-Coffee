@@ -45,6 +45,8 @@ PRIMEIRA CONFIGURAÇÃO
 _____________________
 ESTRUTURA DE COMANDOS PARA ATUALIZAR COM GITHUB
 
+# Cuidado para não realizar modificações diretamente na branch develop
+
 git status
 
 git add .
