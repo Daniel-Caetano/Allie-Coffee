@@ -48,5 +48,5 @@ email:
 Funções:Analista de desenvolvimento-Front-End
 
 Nome: Weslley
-email:
-Funções:Analista de Projetos
+email: weslleycardosomariano@gmail.com
+Funções:Analista de Negócios
