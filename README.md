@@ -2,14 +2,25 @@
 # DATA Inicio: 15/03/2022
 # OBJ: Sistema para agenda de lanches fornecidos pela Aliare
 _____________________
-#Tecnologias
+# Tecnologias
+
 C#, 
+
 .NET 5.0, 
+
 DESENVOLVIMENTO DE API padrão JSON, 
+
 VUE.JS,
+
 JS, 
+
 CSS, 
-SQL SERVER 2017
+
+SQL SERVER
+
+Docker
+
+GitFlow
 _____________________
 
 Autores: Ana Vitória S. Da Luz Nascimento,
