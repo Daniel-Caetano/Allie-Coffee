@@ -39,7 +39,7 @@ Autores:
          
          Túlio Rabelo, 
          
-         Waldir Assis Júnior, 
+         Waldir S. Assis Júnior, 
          
          Weslley Cardoso Mariano
          
