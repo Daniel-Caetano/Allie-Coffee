@@ -64,7 +64,9 @@ ____________________
 *Criando e deletando branch*
 
 git branch nome_da_branch    (cria a branch)
+
 git checkout nome_da_branch  (muda para a branch)
+
 git branch -D nome_da_branch  (deleta a branch)
 ____________________
 Credenciais
