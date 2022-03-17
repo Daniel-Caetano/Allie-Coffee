@@ -1,13 +1,16 @@
+OBS: SE JA TEM O DOCKER E O SQL SERVER INSTALADO COMEÇAR DO PASSO 7
+
 -1: Instalar o Docker, que está na pasta "Aliare-Coffe\AC.Tecnologias\Banco de Dados", deixar marcado a opção:
 "install required windows components for WSL 2"
 -2: Reiniciar o PC e aceitar os termos do Docker
 -3: Instalar a atualização do WSL 2 "wsl_update_x64", que está na pasta "Aliare-Coffe\AC.Tecnologias\Banco de Dados" 
 -4: Denifir o WSL 2 como padrão: abra o power shel e execute este comando:
 wsl --set-default-version 2
--5: Abrir o Docker, depois abrir o CMD e digitar o comando a baixo:
+-5: Instalar o SQL Server versão: básica , na pasta "Aliare-Coffe\AC.Tecnologias\Banco de Dados" 
+
+-6: Abrir o Docker, depois abrir o CMD (como administrador) e digitar o comando a baixo:
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Acbd123@" -p 1401:1433  --name AC_BD -d mcr.microsoft.com/mssql/server:2017-latest
--6: Abrir o Docker e colocar para rodar o container criado pelo comando do passo 3 
--7: Instalar o SQL Server versão: básica , na pasta "Aliare-Coffe\AC.Tecnologias\Banco de Dados" 
--7: Fazer conexão com a IDE de sua escolha
--6: Criar como conexão localhost, 1401 , usuario 'sa' e senha Acbd123@ como na figura "conexão_mssqlserver" na pasta "Aliare-Coffe\AC.Tecnologias\Banco de Dados" 
--7: Rodar o script geral do banco de dados ou fazer a restauração , ambos estão em "Aliare-Coffe\AC.BD"
+-7: Abrir o Docker e colocar para rodar o container criado pelo comando do passo 6 
+-8: Fazer conexão com a IDE de sua escolha
+-9: Criar como conexão localhost, 1401 , usuario 'sa' e senha Acbd123@ como na figura "conexão_mssqlserver" na pasta "Aliare-Coffe\AC.Tecnologias\Banco de Dados" 
+-10: Rodar o script geral do banco de dados ou fazer a restauração , ambos estão em "Aliare-Coffe\AC.BD"
