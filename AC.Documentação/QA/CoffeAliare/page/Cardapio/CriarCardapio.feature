@@ -9,11 +9,12 @@ Cenário: Adicionando um Novo Cardápio
     Dado que eu acesse a página de Novo Cardápio
     Quando preencha os campos corretamente
     Então devo ver a mensagem 'Cardápio cadastrado com sucesso!'
+    E devo ser direcionado para a página com a tabela de cardápios
 
 Cenário: Adicionando Cardápio de mês existente
     Dado que eu acesse a página de Novo cardápio
-    Quando preencha os campos
-    E no campo de nome eu escolha um nome existente
+    Quando preencha os campos corretamente
+    E no campo de mês eu escolha um mês que ja tenha um cardápio cadastrado
     Entao devo ver a mensagem 'Cardápio já existente'
 
 Cenário: Marcando opção de Feriado
@@ -33,14 +34,14 @@ Cenário: Criando cardápio sem preencher o campo 'Mês'
 
 Cenário: Criando cardápio vazio
     Dado que eu acesse a página de Novo Cardápio
-    Quando eu aperte salvar com apensa o campo 'Mês' preenchidos
+    Quando eu aperte salvar com apensa o campo 'Mês' preenchido
     Entao devo ver a mensagem 'Cardápio cadastrado com sucesso!'
 
 Cenário: Preenchendo cardápio e não salvando
     Dado que eu esteja na página de Novo Cardápio
     Quando eu preencher alguns/todos os campos
     E aperte em qualquer lugar que me redirecione sem eu salvar
-    Então devo ver um pop-up com a mensagem 'Deseja confirma sua saida ? Todos os dados serão perdidos. (sim/não)'
+    Então devo ver um pop-up com a mensagem 'Deseja confirma sua saida ?Todos os dados serão perdidos. (sim/não)'
 
 Cenário: Confirmando saida 
     Dado que eu preencha alguns/todos campos na página de novo cardápio 
@@ -54,4 +55,8 @@ Cenário: Cancelando saida
     E eu cancele minha saida
     Entao devo voltar para a página novo cardápio e ver o formulário da forma como havia deixado.
 
+Cenário: Clicando no icone de voltar
+    Dado que esteja na página de novo cardapio
+    Quando eu clicar no icone de uma seta no canto superior direito da tabela 
+    Entao devo ser direcionado a pagina com a tabela de cardápios.
 
