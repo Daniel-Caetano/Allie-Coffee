@@ -1,4 +1,4 @@
-# Projeto Aliare-Coffe
+# Projeto Allie-Coffee
 # DATA Inicio: 15/03/2022
 # OBJ: Sistema para agenda de lanches fornecidos pela Aliare
 _____________________
