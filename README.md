@@ -50,46 +50,46 @@ Credenciais
 
       Email: anavitoriasln@gmail.com
 
-      Funções: Scrum Master
+      Função: Scrum Master
 
 ---------------------
       Nome: Daniel Caetano de Souza Ferreira
       
-      Email:danielcaetano.sf@gmail.com
+      Email: danielcaetano.sf@gmail.com
       
-      Funções:Analista de desenvolvimento-Back-End
+      Função: Analista de desenvolvimento: Back-End
 
 ---------------------
       Nome: Lucas Henrique Faria de Deus
       
       Email: lucas.hfdeus@gmail.com
       
-      Funções:Analista de desenvolvimento-Front-End
+      Função:Analista de desenvolvimento: Front-End
 
 ---------------------
       Nome: Paulo Ricardo Amorim Silva
       
       Email: pauloramorims@gmail.com
       
-      Funções: Analista de desenvolvimento-Back-End
+      Função: Analista de desenvolvimento: Back-End
 
 ---------------------
       Nome: Tulio Rabelo
       
       Email: tuliorazevedo.dev@gmail.com
       
-      Funções: QA Engenieer 
+      Função: QA Engenieer 
 
 ---------------------
       Nome: Waldir S. Assis Júnior
       
       Email: waldir.jr017@gmail.com
       
-      Funções:Analista de desenvolvimento-Front-End
+      Função: Analista de desenvolvimento: Front-End
 
 ---------------------
       Nome: Weslley Cardoso Mariano
       
       Email: weslleycardosomariano@gmail.com
       
-      Funções:Analista de Negócios
+      Função: Analista de Negócios
