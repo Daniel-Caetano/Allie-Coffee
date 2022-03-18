@@ -1,6 +1,7 @@
 # Projeto Allie-Coffee
 # DATA Inicio: 15/03/2022
-# OBJ: Sistema para agenda de lanches
+_____________________
+OBJ: Sistema para agenda de lanches mensal, onde quem tiver interesse deverá informar atrávez de um botão, contabilizando a quantidade necessário para a compra.
 _____________________
 Tecnologias:
 ---------------------
