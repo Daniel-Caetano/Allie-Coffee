@@ -1,1 +1,1 @@
-Pasta para armazenar os scripts 
+Pasta para armazenar os scripts do banco de dados
